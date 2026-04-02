@@ -1,2 +1,2 @@
-class = EmptyClass:
+class EmptyClass:
     pass
